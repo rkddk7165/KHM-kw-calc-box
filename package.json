@@ -15,7 +15,6 @@
     "jest": "^27.2.5"
   },
   "dependencies": {
-    "khm-kw-calc-box": "^0.0.2",
-    "wangki-calc-box": "^0.0.2"
+    "khm-kw-calc-box": "^0.0.2"
   }
 }
