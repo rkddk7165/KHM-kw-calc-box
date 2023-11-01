@@ -15,6 +15,7 @@
     "jest": "^27.2.5"
   },
   "dependencies": {
+    "khm-kw-calc-box": "^0.0.1",
     "no": "^0.0.1"
   }
 }
