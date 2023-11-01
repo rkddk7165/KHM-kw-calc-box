@@ -6,9 +6,15 @@
   "scripts": {
     "test": "jest"
   },
+  "bin": {
+    "calcbox": "./main.js"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "no": "^0.0.1"
   }
 }
