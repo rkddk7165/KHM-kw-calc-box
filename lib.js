@@ -8,7 +8,6 @@ function avg(numbers) {
 
 //prime function
  function prime(num) {
-      // 1은 소수가 아니다.
       if (num <= 1) {
         return false;
     }
